@@ -1,5 +1,7 @@
 # try
 
-# this a try
+# this is about bears
 
-- i am trying 
+![eisbaer](eisbaer_hi.jpg)
+he just wanted to say 'hi'.
+
