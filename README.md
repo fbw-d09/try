@@ -13,9 +13,17 @@ look at these teeth!
 
 ---
 
+## some brown bears
+
 ![braunbaer](baer_herznase.jpg)
 look at his nose! it's **heart-shaped**!
 
 
 ![braunbaer_zunge](braunbaer_zunge.jpg)
 and he's just borded...
+
+---
+
+## some panda bears
+
+![panda](panda.jpg)
