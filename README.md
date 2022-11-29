@@ -8,7 +8,7 @@
 he just wanted to say _**'hi'**_.
 
 ![eisbaerzahn](eisbaer_zahn.jpg)
-look at these teeth!
+look at these _**teeth**_!
 
 
 ---
@@ -20,7 +20,7 @@ look at his nose! it's _**heart-shaped**_!
 
 
 ![braunbaer_zunge](braunbaer_zunge.jpg)
-and he's just _borded_...
+and he's just _**borded**_...
 
 ---
 
@@ -29,3 +29,5 @@ and he's just _borded_...
 ![panda](panda.jpg)
 looks **_tasty_**!
 
+![pandacozy](panda_cozy.jpg)
+he's just _**chilling**_!
