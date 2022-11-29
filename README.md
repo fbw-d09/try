@@ -31,3 +31,5 @@ looks **_tasty_**!
 
 ![pandacozy](panda_cozy.jpg)
 he's just _**chilling**_!
+
+When do the bears sleep and how long? 
